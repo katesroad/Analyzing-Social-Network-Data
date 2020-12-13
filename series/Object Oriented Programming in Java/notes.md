@@ -3,6 +3,8 @@
 - Best practice for learning in classroom is with peer instruction
 
 
+## Week One
+
 - Defining Classes and Creating Objects
   - 1. Class a new type of data, a template
   - 2. member variables, this
@@ -35,7 +37,18 @@ public class SimpleLocation {
 ```
   
 
+## Week Two
+
  
+- [memory model reasoning](https://www.coursera.org/learn/object-oriented-java/lecture/gOFlb/core-drawing-memory-models-with-objects)
+  - Memory model for primitive type
+  - Memory model for object type
 
+- [scope](https://www.coursera.org/learn/object-oriented-java/lecture/mqFZ3/core-introduction-to-scope)
+  - local variable(inside method)
+  - parameters(behave like local variables)
+  - member varibales 
 
-  
+With a scope being destroyed, all variables defined in that scope disappear.
+
+- keyword **this** is not strictly required in constructor and methods. You can omit it, and java will work just fine.
