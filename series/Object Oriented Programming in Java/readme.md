@@ -17,7 +17,7 @@
   - Search for an element in a sorted and unsorted list and explain the differences.
   - Explain multiple sorting techniques and performance tradeoffs.
 
-- [Your Path through the Course](coursera.org/learn/object-oriented-java/lecture/qt6t2/your-path-through-the-course)
+- [Your Path through the Course](https://www.coursera.org/learn/object-oriented-java/supplement/JrhPc/remember-to-choose-your-own-path)
 
   - If you think you are advanced, dive into project; Feel overwhomed, walk through with video.
   - core content are suggested to watch
