@@ -52,3 +52,9 @@ public class SimpleLocation {
 With a scope being destroyed, all variables defined in that scope disappear.
 
 - keyword **this** is not strictly required in constructor and methods. You can omit it, and java will work just fine.
+
+- JDK and JRE
+
+  >1. JDK (Java development Kit) is the binary file that contains the toolkit for developing application in Java.
+  >2. JRE(Java runtime enviroment) is a software that makes it available for uses to run JAVA application using a combination of Java code and libraries from the JDK.
+  
